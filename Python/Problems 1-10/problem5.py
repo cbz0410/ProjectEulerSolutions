@@ -5,7 +5,7 @@ def is_divisible(n):
         
     return True
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     answer = 20
 
     while (not is_divisible(answer)):

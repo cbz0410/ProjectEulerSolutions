@@ -10,7 +10,7 @@ def is_prime(n):
 
     return True
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     count = 1
     answer = 1
 

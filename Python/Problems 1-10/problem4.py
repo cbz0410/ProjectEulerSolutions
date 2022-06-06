@@ -4,7 +4,7 @@ def is_palindrome(n):
     
     return False
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     answer = 0
 
     for x in range(100, 1000):

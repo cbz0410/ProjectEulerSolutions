@@ -14,7 +14,7 @@ def e_sieve(limit):
  
     return primes
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     limit = 2000000
     primes = e_sieve(limit)
 

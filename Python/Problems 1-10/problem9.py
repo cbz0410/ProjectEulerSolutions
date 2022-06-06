@@ -17,5 +17,5 @@ def find_triplet(limit):
 
     return -1
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     print(find_triplet(1000))

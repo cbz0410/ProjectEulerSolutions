@@ -14,5 +14,5 @@ def sum_of_square(n):
 
     return sum
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     print(square_of_sum(100) - sum_of_square(100))

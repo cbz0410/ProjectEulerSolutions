@@ -7,7 +7,7 @@ def is_prime(n):
 
     return True
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     biggestNum = 0
     num = 600851475143
 
