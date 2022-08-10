@@ -1,9 +1,9 @@
 # ProjectEulerSolutions
 Solutions to the first few PE problems
 
-Note: I did, in fact, achieve top 1% using Java (113 problems solved); however, all of my files were wiped off of my laptop after an incident at school and my solutions are now gone. 
-
 I have decided to solve the first 50 or so problems in different programming languages in order to expand my skill diversity as a programmer.
+
+Note: I did, in fact, achieve top 1% using Java (113 problems solved); however, all of my files were wiped off of my laptop after an incident at school and my solutions are now gone. 
 
 Currently working on >>> Python
 
