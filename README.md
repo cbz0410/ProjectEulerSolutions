@@ -9,8 +9,8 @@ Note: I did, in fact, achieve top 1% using Java (113 problems solved); however, 
 
 Here's proof of my achievements:
 
-![OnePerecentAwardMG](https://user-images.githubusercontent.com/106714582/172902709-f95face3-fb43-41cf-8219-bdb893265001.png)
+![image](https://user-images.githubusercontent.com/106714582/194005423-13530a96-64fb-4d38-a78d-72cfe8ba6649.png)
 
 Here is the current table of percentile solvers:
 
-![PEProblemsSolvedData](https://user-images.githubusercontent.com/106714582/172902303-857cf88e-ad5b-4755-8fe3-bde33e0a7e27.png)
+![image](https://user-images.githubusercontent.com/106714582/194005496-23be2a5a-ecdf-4ace-98e4-67dbd43f19ef.png)
