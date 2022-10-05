@@ -5,7 +5,7 @@ I have decided to solve the first 50 or so problems in different programming lan
 
 Currently working on >>> Python
 
-Note: I did, in fact, achieve top 1% using Java (113 problems solved); however, all of my files were wiped off of my laptop after an incident at school. 
+Note: I did, in fact, achieve top 1% using Java (114 problems solved); however, all of my files were wiped off of my laptop after an incident at school. 
 
 Here's proof of my achievements:
 
